@@ -7,6 +7,7 @@ public class Holamundoo {
 		System.out.println("Introduce una letra");
 		String letra=teclado.nextLine();
 		teclado.close();
+		System.out.println("irati pesada");
 	}
 
 }
